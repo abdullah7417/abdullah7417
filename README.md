@@ -1,8 +1,13 @@
 # 👋 Hi there, I'm Abdullah!  
 
-Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about creating modern, responsive, and visually stunning web applications.  
-
----
+Welcome to my GitHub profile! I'm a  
+<svg width="200" height="50">
+  <text x="10" y="35" font-size="24" fill="blue" font-family="Arial">
+    <animate attributeName="x" from="-200" to="200" dur="2s" repeatCount="indefinite" />
+    Frontend
+  </text>
+</svg>  
+Developer passionate about creating modern web experiences.
 
 ## 🛠️ My Skills  
 Here are the tools and technologies I work with:  
@@ -31,14 +36,33 @@ Here are the tools and technologies I work with:
 
 ## 🎯 Fun Animation  
 
-![Your Name's Contribution Snake](https://github.com/abdullah7417/abdullah7417/blob/output/github-contribution-grid-snake.svg)
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: abdullah7417
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
 
 ---
 
 ## 📫 Let's Connect!  
 Feel free to reach out for collaborations or just to say hi:  
 
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/abdullah-mohammed-fathy/](#)  
+- **Email**: [abdullahmohamedf330@gmail.com](mailto:your.email@example.com)  
 
 Thanks for visiting my profile! 😊  
