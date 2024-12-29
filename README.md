@@ -14,7 +14,7 @@
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https:// to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://abdullah7417.github.io/My_Portfolio/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
