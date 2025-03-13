@@ -19,7 +19,9 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/abdullah-mohammed74/](https://www.linkedin.com/in/abdullah-mohamed74/)](https://www.linkedin.com/in/abdullah-mohamed74/)](https://www.linkedin.com/in/abdullah-mohamed74/)" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdullah-mohamed74/" target="_blank">
+  <img src="https://img.shields.io/badge/-Abdullah%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 <a href="https://t.me/abdullah7422" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://web.facebook.com/abdullah7422" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Mohamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
